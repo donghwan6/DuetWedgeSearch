@@ -6,16 +6,30 @@
   <title>듀엣 나이트 어비스 - 악마의 쐐기 검색</title>
   <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
+
   <main>
+
     <header>
+
       <p class="eyebrow">DUET NIGHT ABYSS</p>
-      <h1>악마의 쐐기 검색</h1>
-      <p>쐐기 이름, 영문명, 효과 또는 획득처를 검색하세요.</p>
+
+      <a href="./" class="home-title">
+        <h1>악마의 쐐기 검색</h1>
+      </a>
+
+      <p>
+        쐐기 이름, 영문명, 효과 또는 획득처를 검색하세요.
+      </p>
+
     </header>
 
+
     <section class="search-box">
+
       <form id="searchForm" class="search-form">
+
         <input
           id="searchInput"
           type="search"
@@ -23,7 +37,11 @@
           autocomplete="off"
         >
 
-        <button type="submit" class="search-button" aria-label="검색">
+        <button
+          type="submit"
+          class="search-button"
+          aria-label="검색"
+        >
           <svg
             viewBox="0 0 24 24"
             width="22"
@@ -38,6 +56,7 @@
               stroke="currentColor"
               stroke-width="2"
             />
+
             <path
               d="M16 16L21 21"
               fill="none"
@@ -47,14 +66,24 @@
             />
           </svg>
         </button>
+
       </form>
 
       <p id="count"></p>
+
     </section>
 
-    <section id="results" class="results"></section>
+
+    <section
+      id="results"
+      class="results"
+    ></section>
+
+
   </main>
 
+
   <script src="app.js"></script>
+
 </body>
 </html>

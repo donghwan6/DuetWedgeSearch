@@ -613,4 +613,12 @@ details li {
   .restriction {
     max-width: 100%;
   }
+  .home-title {
+  color: inherit;
+  text-decoration: none;
+}
+
+.home-title h1 {
+  cursor: pointer;
+}
 }
