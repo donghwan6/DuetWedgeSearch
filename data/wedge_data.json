@@ -753,7 +753,7 @@
       "acquisition_materials": [
         {
           "name": "파도 ∙ 기나긴 밤×5",
-          "image": "material_images/366ce6acd54678ea2790.png"
+          "image": "material_images/eeb227427b7190c02ea5.png"
         }
       ]
     },
@@ -1261,7 +1261,7 @@
       "acquisition_materials": [
         {
           "name": "파도 ∙ 기나긴 밤×5",
-          "image": "material_images/f8a49c86d27f5f672d04.png"
+          "image": "material_images/eeb227427b7190c02ea5.png"
         }
       ]
     },
@@ -2277,7 +2277,7 @@
       "acquisition_materials": [
         {
           "name": "파도 ∙ 요원×5",
-          "image": "material_images/366ce6acd54678ea2790.png"
+          "image": "material_images/eeb227427b7190c02ea5.png"
         }
       ]
     },
@@ -2785,7 +2785,7 @@
       "acquisition_materials": [
         {
           "name": "파도 ∙ 요원×5",
-          "image": "material_images/f8a49c86d27f5f672d04.png"
+          "image": "material_images/eeb227427b7190c02ea5.png"
         }
       ]
     },
@@ -3612,7 +3612,7 @@
       "name": "돌연변이 릴리스의 공세",
       "name_en": "Eldritch Lilith's Impetus",
       "variant_anchor": "공세 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -3905,7 +3905,7 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -3970,7 +3970,7 @@
       "name": "돌연변이 릴리스의 집중",
       "name_en": "Eldritch Lilith's Focus",
       "variant_anchor": "집중 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -4263,7 +4263,7 @@
       "acquisition_materials": [
         {
           "name": "집중×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         }
       ]
     },
@@ -4328,7 +4328,7 @@
       "name": "돌연변이 릴리스의 격노",
       "name_en": "Eldritch Lilith's Rage",
       "variant_anchor": "격노 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -4621,7 +4621,7 @@
       "acquisition_materials": [
         {
           "name": "격노×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/247c5892268bbafd8456.png"
         }
       ]
     },
@@ -4686,7 +4686,7 @@
       "name": "돌연변이 릴리스의 신속",
       "name_en": "Eldritch Lilith's Celerity",
       "variant_anchor": "신속 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -4989,7 +4989,7 @@
       "name": "돌연변이 릴리스의 잔상",
       "name_en": "Eldritch Lilith's Foldover",
       "variant_anchor": "잔상 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -5282,7 +5282,7 @@
       "acquisition_materials": [
         {
           "name": "잔상×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -5347,7 +5347,7 @@
       "name": "돌연변이 릴리스의 속박",
       "name_en": "Eldritch Lilith's Trammel",
       "variant_anchor": "속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -5640,7 +5640,7 @@
       "acquisition_materials": [
         {
           "name": "속박×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -5650,7 +5650,7 @@
       "name": "돌연변이 릴리스의 예리",
       "name_en": "Eldritch Lilith's Edge",
       "variant_anchor": "예리 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -5943,7 +5943,7 @@
       "acquisition_materials": [
         {
           "name": "예리×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "name": "돌연변이 릴리스의 투과",
       "name_en": "Eldritch Lilith's Penetration",
       "variant_anchor": "투과 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -6246,7 +6246,7 @@
       "acquisition_materials": [
         {
           "name": "투과×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -6256,7 +6256,7 @@
       "name": "돌연변이 릴리스의 중압",
       "name_en": "Eldritch Lilith's Crusher",
       "variant_anchor": "중압 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "image_source_path": "./악마의 쐐기_돌연변이 릴리스 - 듀엣 나이트 어비스 채널 위키_files/955c7cc4f3a951de419d3d899ae44bcb2baa5148b42726565ce93943fd1cb68c.png",
       "summary": {
@@ -6549,7 +6549,7 @@
       "acquisition_materials": [
         {
           "name": "중압×3",
-          "image": "material_images/c80a9110525e8a1abc43.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -6614,7 +6614,7 @@
       "name": "돌연변이 케르베로스의 공세",
       "name_en": "Eldritch Cerberus's Impetus",
       "variant_anchor": "공세 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -6907,7 +6907,7 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -6972,7 +6972,7 @@
       "name": "돌연변이 케르베로스의 집중",
       "name_en": "Eldritch Cerberus's Focus",
       "variant_anchor": "집중 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -7265,7 +7265,7 @@
       "acquisition_materials": [
         {
           "name": "집중×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         }
       ]
     },
@@ -7330,7 +7330,7 @@
       "name": "돌연변이 케르베로스의 격노",
       "name_en": "Eldritch Cerberus's Rage",
       "variant_anchor": "격노 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -7623,7 +7623,7 @@
       "acquisition_materials": [
         {
           "name": "격노×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/247c5892268bbafd8456.png"
         }
       ]
     },
@@ -7688,7 +7688,7 @@
       "name": "돌연변이 케르베로스의 신속",
       "name_en": "Eldritch Cerberus's Celerity",
       "variant_anchor": "신속 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -7981,7 +7981,7 @@
       "acquisition_materials": [
         {
           "name": "신속×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c80a9110525e8a1abc43.png"
         }
       ]
     },
@@ -7991,7 +7991,7 @@
       "name": "돌연변이 케르베로스의 경계",
       "name_en": "Eldritch Cerberus's Threshold",
       "variant_anchor": "경계 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -8349,7 +8349,7 @@
       "name": "돌연변이 케르베로스의 속박",
       "name_en": "Eldritch Cerberus's Trammel",
       "variant_anchor": "속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -8642,7 +8642,7 @@
       "acquisition_materials": [
         {
           "name": "속박×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -8652,7 +8652,7 @@
       "name": "돌연변이 케르베로스의 예리",
       "name_en": "Eldritch Cerberus's Edge",
       "variant_anchor": "예리 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -8945,7 +8945,7 @@
       "acquisition_materials": [
         {
           "name": "예리×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -8955,7 +8955,7 @@
       "name": "돌연변이 케르베로스의 투과",
       "name_en": "Eldritch Cerberus's Penetration",
       "variant_anchor": "투과 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -9248,7 +9248,7 @@
       "acquisition_materials": [
         {
           "name": "투과×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -9258,7 +9258,7 @@
       "name": "돌연변이 케르베로스의 중압",
       "name_en": "Eldritch Cerberus's Crusher",
       "variant_anchor": "중압 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "image_source_path": "./악마의 쐐기_돌연변이 케르베로스 - 듀엣 나이트 어비스 채널 위키_files/7482e6722d246ac630ffb16de92ecb230b40288cce6d6e0ba1e471437db1afd3.png",
       "summary": {
@@ -9551,7 +9551,7 @@
       "acquisition_materials": [
         {
           "name": "중압×3",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -9674,11 +9674,11 @@
       "acquisition_materials": [
         {
           "name": "속박×2",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "공세×1",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -9805,7 +9805,7 @@
         },
         {
           "name": "공세×1",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -9928,11 +9928,11 @@
       "acquisition_materials": [
         {
           "name": "예리×2",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "신속×1",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c80a9110525e8a1abc43.png"
         }
       ]
     },
@@ -10055,11 +10055,11 @@
       "acquisition_materials": [
         {
           "name": "투과×2",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "신속×1",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c80a9110525e8a1abc43.png"
         }
       ]
     },
@@ -10170,11 +10170,11 @@
       "acquisition_materials": [
         {
           "name": "중압×2",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "집중×1",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         }
       ]
     },
@@ -10285,11 +10285,11 @@
       "acquisition_materials": [
         {
           "name": "격노×2",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/247c5892268bbafd8456.png"
         },
         {
           "name": "집중×1",
-          "image": "material_images/e7d6f29bb553829cdda9.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         }
       ]
     },
@@ -10533,7 +10533,7 @@
       "name": "릴리스의 공세 ∙ 집중",
       "name_en": "Lilith's Impetus • Focus",
       "variant_anchor": "공세 집중 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b(1).png",
       "image_source_path": "./악마의 쐐기_릴리스 - 듀엣 나이트 어비스 채널 위키_files/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b(1).png",
       "summary": {
@@ -10710,7 +10710,7 @@
         },
         {
           "name": "집중×1",
-          "image": "material_images/c8702bc539fe5f67f051.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         }
       ]
     },
@@ -11172,7 +11172,7 @@
       "name": "릴리스의 격노 ∙ 속박",
       "name_en": "Lilith's Rage • Trammel",
       "variant_anchor": "격노 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b(1).png",
       "image_source_path": "./악마의 쐐기_릴리스 - 듀엣 나이트 어비스 채널 위키_files/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b(1).png",
       "summary": {
@@ -11421,7 +11421,7 @@
       "acquisition_materials": [
         {
           "name": "격노×3",
-          "image": "material_images/c8702bc539fe5f67f051.png"
+          "image": "material_images/247c5892268bbafd8456.png"
         },
         {
           "name": "속박×1",
@@ -12906,7 +12906,7 @@
       "name": "릴리스의 예리 ∙ 속박",
       "name_en": "Lilith's Edge • Trammel",
       "variant_anchor": "예리 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b.png",
       "image_source_path": "./악마의 쐐기_릴리스 - 듀엣 나이트 어비스 채널 위키_files/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b.png",
       "summary": {
@@ -13332,7 +13332,7 @@
       "name": "릴리스의 투과 ∙ 속박",
       "name_en": "Lilith's Penetration • Trammel",
       "variant_anchor": "투과 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b.png",
       "image_source_path": "./악마의 쐐기_릴리스 - 듀엣 나이트 어비스 채널 위키_files/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b.png",
       "summary": {
@@ -13758,7 +13758,7 @@
       "name": "릴리스의 중압 ∙ 속박",
       "name_en": "Lilith's Crusher • Trammel",
       "variant_anchor": "중압 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b.png",
       "image_source_path": "./악마의 쐐기_릴리스 - 듀엣 나이트 어비스 채널 위키_files/f78c263d0000cb0648b6cae15b84bca8fc9ce45648c327ad13432c438c4ac14b.png",
       "summary": {
@@ -14021,12 +14021,12 @@
     {
       "id": "메피스토:물 작열 환생 보라",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 작열 ∙ 환생",
       "name_en": "• HP+8%",
       "variant_anchor": "물 작열 환생 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/de0da605d01d5a8a28ea05b5aa5e3f33f8a6aadabe46e283e6d14ac647bf2fd3.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/de0da605d01d5a8a28ea05b5aa5e3f33f8a6aadabe46e283e6d14ac647bf2fd3.png",
       "summary": {
         "level": "+2/5",
         "cost": 13,
@@ -14051,12 +14051,12 @@
     {
       "id": "메피스토:물 작열 환생 금",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 작열 ∙ 환생",
       "name_en": "• HP+8%",
       "variant_anchor": "물 작열 환생 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/de0da605d01d5a8a28ea05b5aa5e3f33f8a6aadabe46e283e6d14ac647bf2fd3.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/de0da605d01d5a8a28ea05b5aa5e3f33f8a6aadabe46e283e6d14ac647bf2fd3.png",
       "summary": {
         "level": "+2/5",
         "cost": 10,
@@ -14080,7 +14080,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 환생×5",
-          "image": "material_images/aa17b810168d929e7c56.png"
+          "image": "material_images/f1bea20338099c0918f3.png"
         }
       ]
     },
@@ -14336,7 +14336,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 권능×5",
-          "image": "material_images/aa17b810168d929e7c56.png"
+          "image": "material_images/9b4c4168d62d9be94156.png"
         }
       ]
     },
@@ -14592,7 +14592,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 고무×5",
-          "image": "material_images/aa17b810168d929e7c56.png"
+          "image": "material_images/e9516285ff873b25f39c.png"
         }
       ]
     },
@@ -15326,7 +15326,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 격양×5",
-          "image": "material_images/aa17b810168d929e7c56.png"
+          "image": "material_images/9b4c4168d62d9be94156.png"
         }
       ]
     },
@@ -15581,7 +15581,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 수호×5",
-          "image": "material_images/e9516285ff873b25f39c.png"
+          "image": "material_images/eb83dc0542fd970e9ba1.png"
         }
       ]
     },
@@ -15836,7 +15836,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 영원×5",
-          "image": "material_images/e9516285ff873b25f39c.png"
+          "image": "material_images/d65fbdb1f16f6095756c.png"
         }
       ]
     },
@@ -16098,12 +16098,12 @@
     {
       "id": "메피스토:불 환생 권능 보라",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 환생 ∙ 권능",
       "name_en": "• HP+8%",
       "variant_anchor": "불 환생 권능 보라",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "보라",
+      "image": "wedge_images/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
       "summary": {
         "level": "+2/5",
         "cost": 14,
@@ -16127,12 +16127,12 @@
     {
       "id": "메피스토:불 환생 권능 금",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 환생 ∙ 권능",
       "name_en": "• HP+8%",
       "variant_anchor": "불 환생 권능 금",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "금",
+      "image": "wedge_images/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
       "summary": {
         "level": "+2/5",
         "cost": 10,
@@ -16380,19 +16380,19 @@
       "acquisition_materials": [
         {
           "name": "결단×5",
-          "image": "material_images/e9516285ff873b25f39c.png"
+          "image": "material_images/9c87737c1ef096f6168f.png"
         }
       ]
     },
     {
       "id": "메피스토:불 환생 결단 보라",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 환생 ∙ 결단",
       "name_en": "• HP+12%",
       "variant_anchor": "불 환생 결단 보라",
-      "rarity": null,
-      "image": "wedge_images/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
+      "rarity": "보라",
+      "image": "wedge_images/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
       "summary": {
         "level": "+2/5",
         "cost": 22,
@@ -16415,12 +16415,12 @@
     {
       "id": "메피스토:불 환생 결단 금",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 환생 ∙ 결단",
       "name_en": "• HP+12%",
       "variant_anchor": "불 환생 결단 금",
-      "rarity": null,
-      "image": "wedge_images/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
+      "rarity": "금",
+      "image": "wedge_images/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/ffc91d9d3187818f010b46447e9e8633f51d50ef36c651d37a68fc0517c114d5.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -16444,7 +16444,7 @@
       "acquisition_materials": [
         {
           "name": "환생 ∙ 결단×5",
-          "image": "material_images/e9516285ff873b25f39c.png"
+          "image": "material_images/d65fbdb1f16f6095756c.png"
         }
       ]
     },
@@ -16956,7 +16956,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 필사×5",
-          "image": "material_images/eb83dc0542fd970e9ba1.png"
+          "image": "material_images/d65fbdb1f16f6095756c.png"
         }
       ]
     },
@@ -17212,7 +17212,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 결단×5",
-          "image": "material_images/eb83dc0542fd970e9ba1.png"
+          "image": "material_images/d65fbdb1f16f6095756c.png"
         }
       ]
     },
@@ -17983,12 +17983,12 @@
     {
       "id": "메피스토:번개 작열 환생 보라",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 작열 ∙ 환생",
       "name_en": "• HP+8%",
       "variant_anchor": "번개 작열 환생 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/fe900fd254cee1b3e4cc279bf0340c8891793d5172e82611fc2ed851df7cf7c5.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/fe900fd254cee1b3e4cc279bf0340c8891793d5172e82611fc2ed851df7cf7c5.png",
       "summary": {
         "level": "+2/5",
         "cost": 13,
@@ -18012,12 +18012,12 @@
     {
       "id": "메피스토:번개 작열 환생 금",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 작열 ∙ 환생",
       "name_en": "• HP+8%",
       "variant_anchor": "번개 작열 환생 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/fe900fd254cee1b3e4cc279bf0340c8891793d5172e82611fc2ed851df7cf7c5.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/fe900fd254cee1b3e4cc279bf0340c8891793d5172e82611fc2ed851df7cf7c5.png",
       "summary": {
         "level": "+2/5",
         "cost": 10,
@@ -18296,7 +18296,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 격양×5",
-          "image": "material_images/f1bea20338099c0918f3.png"
+          "image": "material_images/9b4c4168d62d9be94156.png"
         }
       ]
     },
@@ -18551,7 +18551,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 결단×5",
-          "image": "material_images/f1bea20338099c0918f3.png"
+          "image": "material_images/d65fbdb1f16f6095756c.png"
         }
       ]
     },
@@ -19286,7 +19286,7 @@
       "acquisition_materials": [
         {
           "name": "소멸×5",
-          "image": "material_images/d65fbdb1f16f6095756c.png"
+          "image": "material_images/9b4c4168d62d9be94156.png"
         }
       ]
     },
@@ -19805,12 +19805,12 @@
     {
       "id": "메피스토:빛 환생 결단 보라",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 환생 ∙ 결단",
       "name_en": "• HP+8%",
       "variant_anchor": "빛 환생 결단 보라",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "보라",
+      "image": "wedge_images/4b2b4bb1fd0c7fc7230dcd1f8a483fc25d48c097fdf055736c627bdecab45364.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/4b2b4bb1fd0c7fc7230dcd1f8a483fc25d48c097fdf055736c627bdecab45364.png",
       "summary": {
         "level": "+2/5",
         "cost": 15,
@@ -19835,12 +19835,12 @@
     {
       "id": "메피스토:빛 환생 결단 금",
       "family": "메피스토",
-      "name": "+0/5",
+      "name": "메피스토의 환생 ∙ 결단",
       "name_en": "• HP+8%",
       "variant_anchor": "빛 환생 결단 금",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "금",
+      "image": "wedge_images/4b2b4bb1fd0c7fc7230dcd1f8a483fc25d48c097fdf055736c627bdecab45364.png",
+      "image_source_path": "./악마의 쐐기_메피스토 - 듀엣 나이트 어비스 채널 위키_files/4b2b4bb1fd0c7fc7230dcd1f8a483fc25d48c097fdf055736c627bdecab45364.png",
       "summary": {
         "level": "+2/5",
         "cost": 12,
@@ -21973,7 +21973,7 @@
       "name": "불사조의 작열 ∙ 날개",
       "name_en": "Phoenix's Blaze • Wings",
       "variant_anchor": "작열 날개 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/3c5c153ece53ce57e228c0201d3c602a83b585bb32d042bd53e590a7086aa642(1).png",
       "image_source_path": "./악마의 쐐기_불사조 - 듀엣 나이트 어비스 채널 위키_files/3c5c153ece53ce57e228c0201d3c602a83b585bb32d042bd53e590a7086aa642(1).png",
       "summary": {
@@ -22488,7 +22488,7 @@
       "name": "불사조의 환생 ∙ 가호",
       "name_en": "Phoenix's Nirvana • Blessing",
       "variant_anchor": "환생 가호 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/3c5c153ece53ce57e228c0201d3c602a83b585bb32d042bd53e590a7086aa642(1).png",
       "image_source_path": "./악마의 쐐기_불사조 - 듀엣 나이트 어비스 채널 위키_files/3c5c153ece53ce57e228c0201d3c602a83b585bb32d042bd53e590a7086aa642(1).png",
       "summary": {
@@ -24412,7 +24412,7 @@
       "acquisition_materials": [
         {
           "name": "격양×1",
-          "image": "material_images/369712caa2db09a0c3b5.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         },
         {
           "name": "날개 ∙ 고무×10",
@@ -24613,7 +24613,7 @@
       "acquisition_materials": [
         {
           "name": "격양×1",
-          "image": "material_images/a6bff7e3a394e59b9fc8.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         },
         {
           "name": "날개 ∙ 고무×10",
@@ -24815,7 +24815,7 @@
       "acquisition_materials": [
         {
           "name": "격양×1",
-          "image": "material_images/9c87737c1ef096f6168f.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         },
         {
           "name": "날개 ∙ 고무×10",
@@ -25195,7 +25195,7 @@
       "acquisition_materials": [
         {
           "name": "결단×1",
-          "image": "material_images/a6bff7e3a394e59b9fc8.png"
+          "image": "material_images/9c87737c1ef096f6168f.png"
         },
         {
           "name": "날개 ∙ 고무×10",
@@ -25397,7 +25397,7 @@
       "acquisition_materials": [
         {
           "name": "결단×1",
-          "image": "material_images/32840776b5079f428a73.png"
+          "image": "material_images/9c87737c1ef096f6168f.png"
         },
         {
           "name": "날개 ∙ 고무×10",
@@ -28661,12 +28661,12 @@
     {
       "id": "스핑크스:결투 보라",
       "family": "스핑크스",
-      "name": "+0/5",
+      "name": "스핑크스의 결투",
       "name_en": "• 효과: 주위 20m 범위 내의 적이 2명을 넘지 않을 경우, 입히는 대미지가 4.0% 상승한다.",
       "variant_anchor": "결투 보라",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "보라",
+      "image": "wedge_images/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
+      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 13,
@@ -28686,12 +28686,12 @@
     {
       "id": "스핑크스:결투 금",
       "family": "스핑크스",
-      "name": "+0/5",
+      "name": "스핑크스의 결투",
       "name_en": "• 효과: 주위 20m 범위 내의 적이 2명을 넘지 않을 경우, 입히는 대미지가 4.0% 상승한다.",
       "variant_anchor": "결투 금",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "금",
+      "image": "wedge_images/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
+      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 10,
@@ -29100,12 +29100,12 @@
     {
       "id": "스핑크스:용맹 보라",
       "family": "스핑크스",
-      "name": "+0/5",
+      "name": "스핑크스의 용맹",
       "name_en": "• HP-5%",
       "variant_anchor": "용맹 보라",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "보라",
+      "image": "wedge_images/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
+      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 11,
@@ -29127,12 +29127,12 @@
     {
       "id": "스핑크스:용맹 금",
       "family": "스핑크스",
-      "name": "+0/5",
+      "name": "스핑크스의 용맹",
       "name_en": "• HP-5%",
       "variant_anchor": "용맹 금",
-      "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "rarity": "금",
+      "image": "wedge_images/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
+      "image_source_path": "./악마의 쐐기_스핑크스 - 듀엣 나이트 어비스 채널 위키_files/4ab0f8ba6a20943e57e12da69db2a3be223fcf73ecaef812466254bb44d5b766(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 9,
@@ -32342,7 +32342,7 @@
       "acquisition_materials": [
         {
           "name": "작열 ∙ 환생×10",
-          "image": "material_images/578727ecfb3968f20d06.png"
+          "image": "material_images/f1bea20338099c0918f3.png"
         }
       ]
     },
@@ -32779,7 +32779,7 @@
       "acquisition_materials": [
         {
           "name": "권능×10",
-          "image": "material_images/0c155420148853bc4248.png"
+          "image": "material_images/8305ccfbf51196d23cfc.png"
         }
       ]
     },
@@ -33193,7 +33193,7 @@
       "acquisition_materials": [
         {
           "name": "결단×10",
-          "image": "material_images/0c155420148853bc4248.png"
+          "image": "material_images/9c87737c1ef096f6168f.png"
         }
       ]
     },
@@ -33921,17 +33921,27 @@
       ],
       "source_html": "악마의 쐐기_캐릭터 전용 - 듀엣 나이트 어비스 채널 위키.html",
       "extraction_status": "complete",
-      "restriction": "캐릭터 소을만 장착 가능"
+      "restriction": "캐릭터 소을만 장착 가능",
+      "acquisition_materials": [
+        {
+          "name": "눈부신 빛줄기",
+          "image": "material_images/0eabb0a5f2cb45b6b9b2.png"
+        },
+        {
+          "name": "프리즘",
+          "image": "material_images/0eabb0a5f2cb45b6b9b2.png"
+        }
+      ]
     },
     {
       "id": "캐릭터 전용:헤이즐넛 대돌격",
       "family": "캐릭터 전용",
-      "name": "+0/5",
+      "name": "헤이즐넛 대돌격",
       "name_en": "• 스킬 위력+8%• 효과: [헤이즐넛]에 탑승해 있는 동안 자신과 아군의 필사가 2% 상승한다. 자신의 현재 HP가 2초마다 15.0% 감소하고 [가자, 헤이즐넛!]의 치료 및 버프 효과가 1회 발동하며, 30.0% 확률로 [활성화된 스멜링 솔트] 또는 [정신 집중의 이슬]이 1개 생성된다. 협력 동료로 출전하면 [먹고 일하자]를 사용한다.",
       "variant_anchor": "헤이즐넛 대돌격",
       "rarity": null,
-      "image": "wedge_images/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
-      "image_source_path": "./악마의 쐐기_캐릭터 전용 - 듀엣 나이트 어비스 채널 위키_files/12d51052b0cbe2cfb5f0624f906b50dc3a227dfb846cfd3193d934f8edbc58e8.png",
+      "image": "wedge_images/8719dbea89b4b803e37981644dc7df617a1b529945b6f85b907506288bf27f10(1).png",
+      "image_source_path": "./악마의 쐐기_캐릭터 전용 - 듀엣 나이트 어비스 채널 위키_files/8719dbea89b4b803e37981644dc7df617a1b529945b6f85b907506288bf27f10(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 19,
@@ -33951,7 +33961,17 @@
       ],
       "source_html": "악마의 쐐기_캐릭터 전용 - 듀엣 나이트 어비스 채널 위키.html",
       "extraction_status": "complete",
-      "restriction": "캐릭터 트러플과 헤이즐넛만 장착 가능"
+      "restriction": "캐릭터 트러플과 헤이즐넛만 장착 가능",
+      "acquisition_materials": [
+        {
+          "name": "향기로운 기운",
+          "image": "material_images/ed5da561ff7547a394ea.png"
+        },
+        {
+          "name": "혼돈의 소용돌이",
+          "image": "material_images/ed5da561ff7547a394ea.png"
+        }
+      ]
     },
     {
       "id": "케르베로스:공세 회색",
@@ -34183,7 +34203,7 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -34193,7 +34213,7 @@
       "name": "케르베로스의 공세 ∙ 집중",
       "name_en": "Cerberus's Impetus • Focus",
       "variant_anchor": "공세 집중 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "image_source_path": "./악마의 쐐기_케르베로스 - 듀엣 나이트 어비스 채널 위키_files/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "summary": {
@@ -34366,11 +34386,11 @@
       "acquisition_materials": [
         {
           "name": "공세×2",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "집중×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         }
       ]
     },
@@ -34493,7 +34513,7 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "낙하 공격×1",
@@ -34744,11 +34764,11 @@
       "acquisition_materials": [
         {
           "name": "집중×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         },
         {
           "name": "신속×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c80a9110525e8a1abc43.png"
         }
       ]
     },
@@ -34882,7 +34902,7 @@
       "name": "케르베로스의 격노 ∙ 속박",
       "name_en": "Cerberus's Rage • Trammel",
       "variant_anchor": "격노 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "image_source_path": "./악마의 쐐기_케르베로스 - 듀엣 나이트 어비스 채널 위키_files/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "summary": {
@@ -35055,11 +35075,11 @@
       "acquisition_materials": [
         {
           "name": "격노×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/247c5892268bbafd8456.png"
         },
         {
           "name": "속박×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -35182,7 +35202,7 @@
       "acquisition_materials": [
         {
           "name": "격노×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/247c5892268bbafd8456.png"
         },
         {
           "name": "신속 축기×1",
@@ -35907,11 +35927,11 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "예리×5",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -35921,7 +35941,7 @@
       "name": "케르베로스의 예리 ∙ 속박",
       "name_en": "Cerberus's Edge • Trammel",
       "variant_anchor": "예리 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "image_source_path": "./악마의 쐐기_케르베로스 - 듀엣 나이트 어비스 채널 위키_files/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "summary": {
@@ -36094,11 +36114,11 @@
       "acquisition_materials": [
         {
           "name": "속박×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "예리×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -36333,11 +36353,11 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "투과×5",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -36347,7 +36367,7 @@
       "name": "케르베로스의 투과 ∙ 속박",
       "name_en": "Cerberus's Penetration • Trammel",
       "variant_anchor": "투과 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "image_source_path": "./악마의 쐐기_케르베로스 - 듀엣 나이트 어비스 채널 위키_files/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0(1).png",
       "summary": {
@@ -36520,11 +36540,11 @@
       "acquisition_materials": [
         {
           "name": "속박×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "투과×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -36759,11 +36779,11 @@
       "acquisition_materials": [
         {
           "name": "공세×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "중압×5",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -36773,7 +36793,7 @@
       "name": "케르베로스의 중압 ∙ 속박",
       "name_en": "Cerberus's Crusher • Trammel",
       "variant_anchor": "중압 속박 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0.png",
       "image_source_path": "./악마의 쐐기_케르베로스 - 듀엣 나이트 어비스 채널 위키_files/da3c7bac71460b24cc07a0532ed9e60889c86c0f1292e4ad288edcb4baca22e0.png",
       "summary": {
@@ -36946,11 +36966,11 @@
       "acquisition_materials": [
         {
           "name": "속박×3",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         },
         {
           "name": "중압×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -37109,12 +37129,12 @@
     {
       "id": "쿠쿨칸:s-2.3",
       "family": "쿠쿨칸",
-      "name": "+0/5",
+      "name": "쿠쿨칸의 구제",
       "name_en": "• 내성 최대치+5• 효과: 종결 스킬 시전 시, 주위 10m 범위 내의 팀원에게 대상의 최대 HP의 3.0%만큼 치료를 제공한다. 5.0초마다 최대 1회 발동한다.",
       "variant_anchor": "s-2.3",
       "rarity": null,
-      "image": "wedge_images/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
-      "image_source_path": "./악마의 쐐기_쿠쿨칸 - 듀엣 나이트 어비스 채널 위키_files/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
+      "image": "wedge_images/6aba91123e527e30ce92e1b40d1bbe4ee65236bf6306a7b242618a5c77f4addf(1).png",
+      "image_source_path": "./악마의 쐐기_쿠쿨칸 - 듀엣 나이트 어비스 채널 위키_files/6aba91123e527e30ce92e1b40d1bbe4ee65236bf6306a7b242618a5c77f4addf(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 4,
@@ -37286,12 +37306,12 @@
     {
       "id": "쿠쿨칸:s-2.6",
       "family": "쿠쿨칸",
-      "name": "+0/5",
+      "name": "쿠쿨칸의 불굴",
       "name_en": "• 내성 최대치+5• 효과: 치명적 대미지를 받을 시, 자신은 처치되지 않으며, HP가 1로 낮아진다. 300.0초마다 최대 1회 발동한다.",
       "variant_anchor": "s-2.6",
       "rarity": null,
-      "image": "wedge_images/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
-      "image_source_path": "./악마의 쐐기_쿠쿨칸 - 듀엣 나이트 어비스 채널 위키_files/01771984b7f6f44fd967419cf27050d46809050537d1713e49b2d12935d47eb7.png",
+      "image": "wedge_images/6aba91123e527e30ce92e1b40d1bbe4ee65236bf6306a7b242618a5c77f4addf(1).png",
+      "image_source_path": "./악마의 쐐기_쿠쿨칸 - 듀엣 나이트 어비스 채널 위키_files/6aba91123e527e30ce92e1b40d1bbe4ee65236bf6306a7b242618a5c77f4addf(1).png",
       "summary": {
         "level": "+2/5",
         "cost": 4,
@@ -37908,7 +37928,7 @@
       "acquisition_materials": [
         {
           "name": "격양×5",
-          "image": "material_images/42d6e061b5c9e7dc0b7d.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -38166,7 +38186,7 @@
       "acquisition_materials": [
         {
           "name": "격양×5",
-          "image": "material_images/b75e37b75c68b2f4b8a0.png"
+          "image": "material_images/0e7bc18110b6b458d183.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -38394,7 +38414,7 @@
       "acquisition_materials": [
         {
           "name": "결단×5",
-          "image": "material_images/8305ccfbf51196d23cfc.png"
+          "image": "material_images/9c87737c1ef096f6168f.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -38622,7 +38642,7 @@
       "acquisition_materials": [
         {
           "name": "결단×5",
-          "image": "material_images/42d6e061b5c9e7dc0b7d.png"
+          "image": "material_images/9c87737c1ef096f6168f.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -39078,7 +39098,7 @@
       "acquisition_materials": [
         {
           "name": "영원×5",
-          "image": "material_images/c650bcee479c12f9a0c6.png"
+          "image": "material_images/b75e37b75c68b2f4b8a0.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -39306,7 +39326,7 @@
       "acquisition_materials": [
         {
           "name": "영원×5",
-          "image": "material_images/196404a86679c9d1dd07.png"
+          "image": "material_images/b75e37b75c68b2f4b8a0.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -39990,7 +40010,7 @@
       "acquisition_materials": [
         {
           "name": "필사×5",
-          "image": "material_images/34821a6f7f31a6f76461.png"
+          "image": "material_images/32840776b5079f428a73.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -40218,7 +40238,7 @@
       "acquisition_materials": [
         {
           "name": "필사×5",
-          "image": "material_images/196404a86679c9d1dd07.png"
+          "image": "material_images/32840776b5079f428a73.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -40446,7 +40466,7 @@
       "acquisition_materials": [
         {
           "name": "환기×5",
-          "image": "material_images/c650bcee479c12f9a0c6.png"
+          "image": "material_images/369712caa2db09a0c3b5.png"
         },
         {
           "name": "페이즈 시프트 모듈×2",
@@ -40856,7 +40876,7 @@
       "name": "티폰의 전성",
       "name_en": "Typhon's Prime",
       "variant_anchor": "물 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
@@ -40922,7 +40942,7 @@
       "name": "티폰의 전성",
       "name_en": "Typhon's Prime",
       "variant_anchor": "불 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
@@ -40988,7 +41008,7 @@
       "name": "티폰의 전성",
       "name_en": "Typhon's Prime",
       "variant_anchor": "바람 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
@@ -41054,7 +41074,7 @@
       "name": "티폰의 전성",
       "name_en": "Typhon's Prime",
       "variant_anchor": "번개 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
@@ -41120,7 +41140,7 @@
       "name": "티폰의 전성",
       "name_en": "Typhon's Prime",
       "variant_anchor": "빛 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
@@ -41186,7 +41206,7 @@
       "name": "티폰의 전성",
       "name_en": "Typhon's Prime",
       "variant_anchor": "어둠 초록",
-      "rarity": null,
+      "rarity": "초록",
       "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
@@ -41753,12 +41773,12 @@
     {
       "id": "티폰:물 격양 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+12.5%",
       "variant_anchor": "물 격양 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -41781,12 +41801,12 @@
     {
       "id": "티폰:물 격양 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+14%",
       "variant_anchor": "물 격양 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -41810,19 +41830,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 격양×5",
-          "image": "material_images/36ac0f47ee29adb869c2.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:불 격양 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+12.5%",
       "variant_anchor": "불 격양 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -41845,12 +41865,12 @@
     {
       "id": "티폰:불 격양 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+14%",
       "variant_anchor": "불 격양 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -41874,19 +41894,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 격양×5",
-          "image": "material_images/708743f03442f3b08977.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:바람 격양 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+12.5%",
       "variant_anchor": "바람 격양 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -41909,12 +41929,12 @@
     {
       "id": "티폰:바람 격양 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+14%",
       "variant_anchor": "바람 격양 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -41938,19 +41958,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 격양×5",
-          "image": "material_images/96fc53d4353499372d90.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:번개 격양 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+12.5%",
       "variant_anchor": "번개 격양 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -41973,12 +41993,12 @@
     {
       "id": "티폰:번개 격양 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+14%",
       "variant_anchor": "번개 격양 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42002,19 +42022,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 격양×5",
-          "image": "material_images/a1e4c144e910e2329510.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:빛 격양 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+12.5%",
       "variant_anchor": "빛 격양 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42037,12 +42057,12 @@
     {
       "id": "티폰:빛 격양 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+14%",
       "variant_anchor": "빛 격양 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42066,19 +42086,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 격양×5",
-          "image": "material_images/ec38fda4042a74b03741.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:어둠 격양 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+12.5%",
       "variant_anchor": "어둠 격양 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42101,12 +42121,12 @@
     {
       "id": "티폰:어둠 격양 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 격양",
       "name_en": "• HP+14%",
       "variant_anchor": "어둠 격양 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42137,12 +42157,12 @@
     {
       "id": "티폰:물 필사 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+12.5%",
       "variant_anchor": "물 필사 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42165,12 +42185,12 @@
     {
       "id": "티폰:물 필사 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+14%",
       "variant_anchor": "물 필사 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42194,19 +42214,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 필사×5",
-          "image": "material_images/36ac0f47ee29adb869c2.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:불 필사 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+12.5%",
       "variant_anchor": "불 필사 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42229,12 +42249,12 @@
     {
       "id": "티폰:불 필사 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+14%",
       "variant_anchor": "불 필사 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42258,19 +42278,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 필사×5",
-          "image": "material_images/708743f03442f3b08977.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:바람 필사 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+12.5%",
       "variant_anchor": "바람 필사 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42293,12 +42313,12 @@
     {
       "id": "티폰:바람 필사 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+14%",
       "variant_anchor": "바람 필사 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42322,19 +42342,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 필사×5",
-          "image": "material_images/96fc53d4353499372d90.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:번개 필사 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+12.5%",
       "variant_anchor": "번개 필사 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42357,12 +42377,12 @@
     {
       "id": "티폰:번개 필사 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+14%",
       "variant_anchor": "번개 필사 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42386,19 +42406,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 필사×5",
-          "image": "material_images/a1e4c144e910e2329510.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:빛 필사 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+12.5%",
       "variant_anchor": "빛 필사 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42421,12 +42441,12 @@
     {
       "id": "티폰:빛 필사 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+14%",
       "variant_anchor": "빛 필사 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42450,19 +42470,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 필사×5",
-          "image": "material_images/ec38fda4042a74b03741.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:어둠 필사 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+12.5%",
       "variant_anchor": "어둠 필사 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42485,12 +42505,12 @@
     {
       "id": "티폰:어둠 필사 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 필사",
       "name_en": "• HP+14%",
       "variant_anchor": "어둠 필사 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42521,12 +42541,12 @@
     {
       "id": "티폰:물 체이스 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+12.5%",
       "variant_anchor": "물 체이스 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42549,12 +42569,12 @@
     {
       "id": "티폰:물 체이스 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+14%",
       "variant_anchor": "물 체이스 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42578,19 +42598,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 체이스×5",
-          "image": "material_images/36ac0f47ee29adb869c2.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:불 체이스 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+12.5%",
       "variant_anchor": "불 체이스 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42613,12 +42633,12 @@
     {
       "id": "티폰:불 체이스 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+14%",
       "variant_anchor": "불 체이스 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42642,19 +42662,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 체이스×5",
-          "image": "material_images/708743f03442f3b08977.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:바람 체이스 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+12.5%",
       "variant_anchor": "바람 체이스 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42677,12 +42697,12 @@
     {
       "id": "티폰:바람 체이스 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+14%",
       "variant_anchor": "바람 체이스 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42706,19 +42726,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 체이스×5",
-          "image": "material_images/96fc53d4353499372d90.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:번개 체이스 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+12.5%",
       "variant_anchor": "번개 체이스 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42741,12 +42761,12 @@
     {
       "id": "티폰:번개 체이스 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+14%",
       "variant_anchor": "번개 체이스 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42770,19 +42790,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 체이스×5",
-          "image": "material_images/a1e4c144e910e2329510.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:빛 체이스 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+12.5%",
       "variant_anchor": "빛 체이스 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42805,12 +42825,12 @@
     {
       "id": "티폰:빛 체이스 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+14%",
       "variant_anchor": "빛 체이스 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42834,19 +42854,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 체이스×5",
-          "image": "material_images/ec38fda4042a74b03741.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:어둠 체이스 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+12.5%",
       "variant_anchor": "어둠 체이스 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42869,12 +42889,12 @@
     {
       "id": "티폰:어둠 체이스 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 체이스",
       "name_en": "• HP+14%",
       "variant_anchor": "어둠 체이스 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42905,12 +42925,12 @@
     {
       "id": "티폰:물 안심 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+12.5%",
       "variant_anchor": "물 안심 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42933,12 +42953,12 @@
     {
       "id": "티폰:물 안심 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+14%",
       "variant_anchor": "물 안심 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -42962,19 +42982,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 안심×5",
-          "image": "material_images/36ac0f47ee29adb869c2.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:불 안심 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+12.5%",
       "variant_anchor": "불 안심 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -42997,12 +43017,12 @@
     {
       "id": "티폰:불 안심 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+14%",
       "variant_anchor": "불 안심 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43026,19 +43046,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 안심×5",
-          "image": "material_images/708743f03442f3b08977.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:바람 안심 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+12.5%",
       "variant_anchor": "바람 안심 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43061,12 +43081,12 @@
     {
       "id": "티폰:바람 안심 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+14%",
       "variant_anchor": "바람 안심 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43090,19 +43110,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 안심×5",
-          "image": "material_images/96fc53d4353499372d90.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:번개 안심 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+12.5%",
       "variant_anchor": "번개 안심 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43125,12 +43145,12 @@
     {
       "id": "티폰:번개 안심 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+14%",
       "variant_anchor": "번개 안심 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43154,19 +43174,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 안심×5",
-          "image": "material_images/a1e4c144e910e2329510.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:빛 안심 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+12.5%",
       "variant_anchor": "빛 안심 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43189,12 +43209,12 @@
     {
       "id": "티폰:빛 안심 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+14%",
       "variant_anchor": "빛 안심 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43218,19 +43238,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 안심×5",
-          "image": "material_images/ec38fda4042a74b03741.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:어둠 안심 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+12.5%",
       "variant_anchor": "어둠 안심 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43253,12 +43273,12 @@
     {
       "id": "티폰:어둠 안심 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 안심",
       "name_en": "• HP+14%",
       "variant_anchor": "어둠 안심 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43289,12 +43309,12 @@
     {
       "id": "티폰:물 분기 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+12.5%",
       "variant_anchor": "물 분기 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43317,12 +43337,12 @@
     {
       "id": "티폰:물 분기 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+14%",
       "variant_anchor": "물 분기 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/df51a9a92451a81343509a332626543944f3d5edbb71bf90dbb391dfba63cff4.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43346,19 +43366,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 분기×5",
-          "image": "material_images/36ac0f47ee29adb869c2.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:불 분기 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+12.5%",
       "variant_anchor": "불 분기 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43381,12 +43401,12 @@
     {
       "id": "티폰:불 분기 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+14%",
       "variant_anchor": "불 분기 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/65060be4d2b24285ce4d1144d053a2c82ae45f0500e7483e0e74fc89c8773488.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43410,19 +43430,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 분기×5",
-          "image": "material_images/708743f03442f3b08977.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:바람 분기 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+12.5%",
       "variant_anchor": "바람 분기 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43445,12 +43465,12 @@
     {
       "id": "티폰:바람 분기 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+14%",
       "variant_anchor": "바람 분기 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/ddaa836918a598a7de390b58bd9a3de74889d4eae2a2e20e676053a45ba11317.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43474,19 +43494,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 분기×5",
-          "image": "material_images/96fc53d4353499372d90.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:번개 분기 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+12.5%",
       "variant_anchor": "번개 분기 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43509,12 +43529,12 @@
     {
       "id": "티폰:번개 분기 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+14%",
       "variant_anchor": "번개 분기 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/2ae15b0ed34bccfae23cadff87ee444991a67dc4b7f21ffb0d0d7ec6d91b6217.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43538,19 +43558,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 분기×5",
-          "image": "material_images/a1e4c144e910e2329510.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:빛 분기 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+12.5%",
       "variant_anchor": "빛 분기 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43573,12 +43593,12 @@
     {
       "id": "티폰:빛 분기 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+14%",
       "variant_anchor": "빛 분기 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/8b29c40fae5491aa62e1b33ccad8e12a22e6ec27cc6f2741fd1bf5ea27835b08.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -43602,19 +43622,19 @@
       "acquisition_materials": [
         {
           "name": "전성 ∙ 분기×5",
-          "image": "material_images/ec38fda4042a74b03741.png"
+          "image": "material_images/5ecace67024b3fdc1c5c.png"
         }
       ]
     },
     {
       "id": "티폰:어둠 분기 보라",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+12.5%",
       "variant_anchor": "어둠 분기 보라",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "보라",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 21,
@@ -43637,12 +43657,12 @@
     {
       "id": "티폰:어둠 분기 금",
       "family": "티폰",
-      "name": "+0/5",
+      "name": "티폰의 전성 ∙ 분기",
       "name_en": "• HP+14%",
       "variant_anchor": "어둠 분기 금",
-      "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "rarity": "금",
+      "image": "wedge_images/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
+      "image_source_path": "./악마의 쐐기_티폰 - 듀엣 나이트 어비스 채널 위키_files/838543032ef698a5e64c421e3ef5239a27c815cbf6e7e7beb67d45e0ba2d31e9.png",
       "summary": {
         "level": "+2/5",
         "cost": 20,
@@ -45561,12 +45581,12 @@
     {
       "id": "파프니르:s-5.8",
       "family": "파프니르",
-      "name": "+0/5",
+      "name": "파프니르의 저주",
       "name_en": "• 효과: 레벨이 자신 이하인 적에게 대미지를 입힐 시, 8.3% 확률로 대상을 움직일 수 없는 기름통으로 만든다. 다시 대미지를 받을 시 바로 처치되며, 주변 10m 범위 내의 적에게 자기 공격력 120.0%의 진동 대미지를 입힌다.",
       "variant_anchor": "s-5.8",
       "rarity": null,
-      "image": "wedge_images/181c4adc8049bd6219a2f4232b2ac222cd5d4dd34d1702e4f570bcc41283aa89.png",
-      "image_source_path": "./악마의 쐐기_파프니르 - 듀엣 나이트 어비스 채널 위키_files/181c4adc8049bd6219a2f4232b2ac222cd5d4dd34d1702e4f570bcc41283aa89.png",
+      "image": "wedge_images/5ae9683c65336f9d60ea1af1ff0dae085bcafd59fbb10fdc9a977ca1288195fa.png",
+      "image_source_path": "./악마의 쐐기_파프니르 - 듀엣 나이트 어비스 채널 위키_files/5ae9683c65336f9d60ea1af1ff0dae085bcafd59fbb10fdc9a977ca1288195fa.png",
       "summary": {
         "level": "+2/5",
         "cost": 12,
@@ -45654,12 +45674,12 @@
     {
       "id": "파프니르:s-6.2",
       "family": "파프니르",
-      "name": "+0/5",
+      "name": "파프니르의 쇠락",
       "name_en": "• 효과: 임의의 무기로 원거리 무기 대미지를 입힐 시, 자신의 HP 백분율이 35% 이상이라면, HP가 10% 감소한다. 해당 효과는 6.0초마다 최대 1회 발동된다..",
       "variant_anchor": "s-6.2",
       "rarity": null,
-      "image": "wedge_images/181c4adc8049bd6219a2f4232b2ac222cd5d4dd34d1702e4f570bcc41283aa89.png",
-      "image_source_path": "./악마의 쐐기_파프니르 - 듀엣 나이트 어비스 채널 위키_files/181c4adc8049bd6219a2f4232b2ac222cd5d4dd34d1702e4f570bcc41283aa89.png",
+      "image": "wedge_images/5ae9683c65336f9d60ea1af1ff0dae085bcafd59fbb10fdc9a977ca1288195fa.png",
+      "image_source_path": "./악마의 쐐기_파프니르 - 듀엣 나이트 어비스 채널 위키_files/5ae9683c65336f9d60ea1af1ff0dae085bcafd59fbb10fdc9a977ca1288195fa.png",
       "summary": {
         "level": "+2/5",
         "cost": 12,
@@ -45678,12 +45698,12 @@
     {
       "id": "파프니르:s-7.1",
       "family": "파프니르",
-      "name": "+0/5",
+      "name": "파프니르의 꿰뚫기",
       "name_en": "• 관통 추가 효과 발동 시 HP에 대한 대미지+14%",
       "variant_anchor": "s-7.1",
       "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_파프니르 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "image": "wedge_images/5ae9683c65336f9d60ea1af1ff0dae085bcafd59fbb10fdc9a977ca1288195fa.png",
+      "image_source_path": "./악마의 쐐기_파프니르 - 듀엣 나이트 어비스 채널 위키_files/5ae9683c65336f9d60ea1af1ff0dae085bcafd59fbb10fdc9a977ca1288195fa.png",
       "summary": {
         "level": "+2/5",
         "cost": 11,
@@ -46781,7 +46801,7 @@
         },
         {
           "name": "속박×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -46978,7 +46998,7 @@
         },
         {
           "name": "경계×1",
-          "image": "material_images/453dbc1ed2a2fb46d221.png"
+          "image": "material_images/e7d6f29bb553829cdda9.png"
         }
       ]
     },
@@ -47457,7 +47477,7 @@
       "acquisition_materials": [
         {
           "name": "속박 ∙ 풍성×5",
-          "image": "material_images/1e3600f4fc7197f2fbf6.png"
+          "image": "material_images/1f2eb78ae62987c5e0b3.png"
         }
       ]
     },
@@ -48094,12 +48114,12 @@
     {
       "id": "펜리르:s-4.3",
       "family": "펜리르",
-      "name": "+0/5",
+      "name": "펜리르의 꿰뚫기",
       "name_en": "• 관통 추가 효과 발동 시 HP에 대한 대미지+14%",
       "variant_anchor": "s-4.3",
       "rarity": null,
-      "image": "wedge_images/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
-      "image_source_path": "./악마의 쐐기_펜리르 - 듀엣 나이트 어비스 채널 위키_files/f29e5be4a4163d3a638d107c121219ceddf4bfc80fc2c1a3a352cc6bb0b26523.png",
+      "image": "wedge_images/8faa94392790b6ddbeda5a70a7830791a055dd3aa9ad7a7849f79d4b84bc60ec.png",
+      "image_source_path": "./악마의 쐐기_펜리르 - 듀엣 나이트 어비스 채널 위키_files/8faa94392790b6ddbeda5a70a7830791a055dd3aa9ad7a7849f79d4b84bc60ec.png",
       "summary": {
         "level": "+2/5",
         "cost": 11,
@@ -48841,6 +48861,14 @@
         {
           "name": "무자비×10",
           "image": "material_images/1e3600f4fc7197f2fbf6.png"
+        },
+        {
+          "name": "공세",
+          "image": "material_images/c8702bc539fe5f67f051.png"
+        },
+        {
+          "name": "격노 ∙ 속박",
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -49222,6 +49250,14 @@
         {
           "name": "무자비×10",
           "image": "material_images/1e3600f4fc7197f2fbf6.png"
+        },
+        {
+          "name": "신속",
+          "image": "material_images/c80a9110525e8a1abc43.png"
+        },
+        {
+          "name": "경계",
+          "image": "material_images/e7d6f29bb553829cdda9.png"
         }
       ]
     },
@@ -49603,6 +49639,14 @@
         {
           "name": "신속 축기×10",
           "image": "material_images/1e3600f4fc7197f2fbf6.png"
+        },
+        {
+          "name": "공세",
+          "image": "material_images/c8702bc539fe5f67f051.png"
+        },
+        {
+          "name": "격노 ∙ 속박",
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -49832,6 +49876,14 @@
         {
           "name": "신속 낙하 공격×10",
           "image": "material_images/1e3600f4fc7197f2fbf6.png"
+        },
+        {
+          "name": "공세",
+          "image": "material_images/c8702bc539fe5f67f051.png"
+        },
+        {
+          "name": "격노 ∙ 속박",
+          "image": "material_images/c8702bc539fe5f67f051.png"
         }
       ]
     },
@@ -50061,6 +50113,14 @@
         {
           "name": "광열×10",
           "image": "material_images/1e3600f4fc7197f2fbf6.png"
+        },
+        {
+          "name": "신속",
+          "image": "material_images/c80a9110525e8a1abc43.png"
+        },
+        {
+          "name": "경계",
+          "image": "material_images/e7d6f29bb553829cdda9.png"
         }
       ]
     },
@@ -50366,6 +50426,14 @@
         {
           "name": "잔영×10",
           "image": "material_images/1e3600f4fc7197f2fbf6.png"
+        },
+        {
+          "name": "신속",
+          "image": "material_images/c80a9110525e8a1abc43.png"
+        },
+        {
+          "name": "경계",
+          "image": "material_images/e7d6f29bb553829cdda9.png"
         }
       ]
     },

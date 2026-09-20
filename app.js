@@ -40,18 +40,11 @@ searchForm.addEventListener("submit", (event) => {
 // =========================================
 // 검색어 정리
 // =========================================
-// 띄어쓰기와 "의"를 제거해서 비교합니다.
-//
-// 예:
-// 불사조의 작열 → 불사조작열
-// 불사조 작열   → 불사조작열
-// 불사조작열     → 불사조작열
-// =========================================
 
 function normalizeSearchText(value) {
   return String(value ?? "")
     .toLowerCase()
-    .replace(/\s+/g, "")
+    .replace(/[^0-9a-z가-힣]/g, "")
     .replace(/의/g, "");
 }
 
@@ -70,9 +63,19 @@ function render() {
   }
 
   const filtered = wedges.filter((wedge) => {
-    const wedgeName = normalizeSearchText(wedge.name);
+    const searchTargets = [
+      wedge.name,
+      wedge.name_en,
+      wedge.family,
+      wedge.restriction,
+      ...(Array.isArray(wedge.acquisition)
+        ? wedge.acquisition
+        : [])
+    ];
 
-    return wedgeName.includes(keyword);
+    return searchTargets.some((value) => {
+      return normalizeSearchText(value).includes(keyword);
+    });
   });
 
   count.textContent = `${filtered.length}개 항목`;
@@ -194,18 +197,17 @@ function createCard(wedge) {
   const acquisitionList = acquisition
     .map((item) => {
 
-      // -----------------------------
+      // ---------------------------------------
       // 주조 재료인지 확인
-      // -----------------------------
+      // ---------------------------------------
 
       const isCastingMaterial =
         String(item).trim() === "주조 재료";
 
 
-      // -----------------------------
-      // 현재 획득처 이름과
-      // 연결된 재료 이미지 찾기
-      // -----------------------------
+      // ---------------------------------------
+      // 재료 이미지 찾기
+      // ---------------------------------------
 
       const material = materialImages.find((entry) => {
         return (
@@ -215,9 +217,9 @@ function createCard(wedge) {
       });
 
 
-      // -----------------------------
+      // ---------------------------------------
       // 주조 재료 위쪽 구분선
-      // -----------------------------
+      // ---------------------------------------
 
       const separatorClass =
         isCastingMaterial
@@ -225,9 +227,9 @@ function createCard(wedge) {
           : "";
 
 
-      // -----------------------------
+      // ---------------------------------------
       // 재료 이미지가 있는 경우
-      // -----------------------------
+      // ---------------------------------------
 
       const materialClass =
         material
@@ -247,9 +249,9 @@ function createCard(wedge) {
         : "";
 
 
-      // -----------------------------
+      // ---------------------------------------
       // 획득처 항목
-      // -----------------------------
+      // ---------------------------------------
 
       return `
         <li class="${separatorClass}${materialClass}">
@@ -386,7 +388,7 @@ function createCard(wedge) {
 
 
 // =========================================
-// 주조 재료 이름 비교용 정리
+// 주조 재료 이름 비교용
 // =========================================
 
 function normalizeMaterialName(value) {

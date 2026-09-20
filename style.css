@@ -33,16 +33,18 @@ header {
   letter-spacing: 2px;
 }
 
+
 /* =========================================
-   홈으로 돌아가는 제목
+   홈 제목 링크 밑줄 제거
    ========================================= */
 
 .home-title,
 .home-title:visited,
 .home-title:hover,
-.home-title:active {
+.home-title:active,
+.home-title:focus {
   color: inherit;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 .home-title h1 {
@@ -53,6 +55,7 @@ h1 {
   margin: 8px 0;
   color: #20222a;
   font-size: clamp(28px, 5vw, 44px);
+  text-decoration: none;
 }
 
 header p:not(.eyebrow) {
@@ -135,6 +138,11 @@ input:focus {
   margin-top: 20px;
 }
 
+
+/* =========================================
+   카드
+   ========================================= */
+
 .card {
   min-width: 0;
   padding: 18px;
@@ -144,6 +152,11 @@ input:focus {
   box-shadow: 0 4px 14px rgba(30, 35, 50, 0.07);
   overflow: hidden;
 }
+
+
+/* =========================================
+   쐐기 이미지
+   ========================================= */
 
 .icon {
   width: 72px;
@@ -157,43 +170,67 @@ input:focus {
   display: block;
 }
 
+
+/* =========================================
+   등급별 이미지 배경
+   ========================================= */
+
 .card.rarity-gray .icon {
-  background: linear-gradient(
-    145deg,
-    #c8cbd1 0%,
-    #f2f3f4 48%,
-    #c4c7cd 100%
-  );
+  background:
+    linear-gradient(
+      145deg,
+      #c8cbd1 0%,
+      #f2f3f4 48%,
+      #c4c7cd 100%
+    );
+}
+
+.card.rarity-green .icon {
+  background:
+    linear-gradient(
+      145deg,
+      #7fae86 0%,
+      #e4f0e6 48%,
+      #91bf99 100%
+    );
 }
 
 .card.rarity-blue .icon {
-  background: linear-gradient(
-    145deg,
-    #7fa9d8 0%,
-    #e5f0fc 48%,
-    #91b9e5 100%
-  );
+  background:
+    linear-gradient(
+      145deg,
+      #7fa9d8 0%,
+      #e5f0fc 48%,
+      #91b9e5 100%
+    );
 }
 
 .card.rarity-purple .icon {
-  background: linear-gradient(
-    145deg,
-    #9b78c5 0%,
-    #eee5f8 48%,
-    #ad8bd2 100%
-  );
+  background:
+    linear-gradient(
+      145deg,
+      #9b78c5 0%,
+      #eee5f8 48%,
+      #ad8bd2 100%
+    );
 }
 
 .card.rarity-gold .icon {
-  background: linear-gradient(
-    145deg,
-    #8f805c 0%,
-    #d9cfae 25%,
-    #f5f0d9 52%,
-    #d7cca8 76%,
-    #9d8e65 100%
-  );
+  background:
+    linear-gradient(
+      145deg,
+      #8f805c 0%,
+      #d9cfae 25%,
+      #f5f0d9 52%,
+      #d7cca8 76%,
+      #9d8e65 100%
+    );
 }
+
+
+/* =========================================
+   카드 상단
+   ========================================= */
 
 .card-top {
   display: flex;
@@ -225,6 +262,11 @@ h2 {
   font-size: 14px;
 }
 
+
+/* =========================================
+   계열 + 장착 조건
+   ========================================= */
+
 .badge-row {
   display: flex;
   align-items: center;
@@ -247,6 +289,11 @@ h2 {
   white-space: nowrap;
 }
 
+
+/* =========================================
+   등급 색상 점
+   ========================================= */
+
 .rarity-dot {
   width: 8px;
   height: 8px;
@@ -256,6 +303,10 @@ h2 {
 
 .card.rarity-gray .rarity-dot {
   background: #9da1aa;
+}
+
+.card.rarity-green .rarity-dot {
+  background: #5f9b69;
 }
 
 .card.rarity-blue .rarity-dot {
@@ -269,6 +320,11 @@ h2 {
 .card.rarity-gold .rarity-dot {
   background: #d3a72c;
 }
+
+
+/* =========================================
+   장착 조건
+   ========================================= */
 
 .restriction {
   display: inline-flex;
@@ -286,6 +342,11 @@ h2 {
   overflow: hidden;
   text-overflow: ellipsis;
 }
+
+
+/* =========================================
+   내용
+   ========================================= */
 
 h3 {
   margin: 18px 0 7px;
@@ -308,6 +369,11 @@ ul {
   border: 1px solid #e7e8ec;
 }
 
+
+/* =========================================
+   획득처 - 주조 재료
+   ========================================= */
+
 .acquisition-casting-material {
   position: relative;
   margin-top: 8px;
@@ -319,10 +385,15 @@ ul {
   position: absolute;
   top: 0;
   left: 5px;
-  right: -12px;
+  right: 5px;
   height: 1px;
   background: #e1e3e8;
 }
+
+
+/* =========================================
+   주조 재료 아이콘
+   ========================================= */
 
 .acquisition-material-item {
   display: flex;
@@ -346,6 +417,11 @@ ul {
   min-width: 0;
 }
 
+
+/* =========================================
+   강화 상세
+   ========================================= */
+
 details {
   margin-top: 14px;
   color: #777c88;
@@ -363,15 +439,28 @@ details li {
   color: #858a96;
 }
 
+
+/* =========================================
+   화면이 좁아졌을 때
+   ========================================= */
+
 @media (max-width: 900px) {
   main {
     width: min(100% - 32px, 1280px);
   }
 
   .results {
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    grid-template-columns: repeat(
+      auto-fill,
+      minmax(320px, 1fr)
+    );
   }
 }
+
+
+/* =========================================
+   모바일
+   ========================================= */
 
 @media (max-width: 700px) {
   main {
