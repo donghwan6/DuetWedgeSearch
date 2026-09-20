@@ -3,16 +3,29 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>듀엣 나이트 어비스 - 악마의 쐐기 검색</title>
+
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6N771SZFR2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag("js", new Date());
+
+    gtag("config", "G-6N771SZFR2");
+  </script>
+
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
-
   <main>
-
     <header>
-
       <p class="eyebrow">DUET NIGHT ABYSS</p>
 
       <a href="./" class="home-title">
@@ -22,14 +35,10 @@
       <p>
         쐐기 이름, 영문명, 효과 또는 획득처를 검색하세요.
       </p>
-
     </header>
 
-
     <section class="search-box">
-
       <form id="searchForm" class="search-form">
-
         <input
           id="searchInput"
           type="search"
@@ -66,24 +75,17 @@
             />
           </svg>
         </button>
-
       </form>
 
       <p id="count"></p>
-
     </section>
-
 
     <section
       id="results"
       class="results"
     ></section>
-
-
   </main>
 
-
   <script src="app.js"></script>
-
 </body>
 </html>
