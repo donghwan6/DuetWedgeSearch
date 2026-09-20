@@ -38,11 +38,30 @@ searchForm.addEventListener("submit", (event) => {
 
 
 // =========================================
+// 검색어 정리
+// =========================================
+// 띄어쓰기와 "의"를 제거해서 비교합니다.
+//
+// 예:
+// 불사조의 작열 → 불사조작열
+// 불사조 작열   → 불사조작열
+// 불사조작열     → 불사조작열
+// =========================================
+
+function normalizeSearchText(value) {
+  return String(value ?? "")
+    .toLowerCase()
+    .replace(/\s+/g, "")
+    .replace(/의/g, "");
+}
+
+
+// =========================================
 // 검색
 // =========================================
 
 function render() {
-  const keyword = searchInput.value.trim().toLowerCase();
+  const keyword = normalizeSearchText(searchInput.value);
 
   if (!keyword) {
     count.textContent = "";
@@ -51,7 +70,7 @@ function render() {
   }
 
   const filtered = wedges.filter((wedge) => {
-    const wedgeName = String(wedge.name || "").toLowerCase();
+    const wedgeName = normalizeSearchText(wedge.name);
 
     return wedgeName.includes(keyword);
   });
@@ -149,7 +168,6 @@ function createCard(wedge) {
 
       return `
         <li>
-
           <strong>
             ${escapeHtml(item.level)} | ${escapeHtml(item.cost)}
           </strong>
@@ -157,7 +175,6 @@ function createCard(wedge) {
           <br>
 
           ${itemEffects}
-
         </li>
       `;
     })
@@ -269,9 +286,7 @@ function createCard(wedge) {
   return `
     <article class="card ${rarityClass}">
 
-
       <div class="card-top">
-
 
         <img
           class="icon"
@@ -279,22 +294,17 @@ function createCard(wedge) {
           alt="${escapeHtml(wedge.name)}"
         >
 
-
         <div class="card-info">
-
 
           <h2>
             ${escapeHtml(wedge.name)}
           </h2>
 
-
           <p class="english">
             ${escapeHtml(wedge.name_en)}
           </p>
 
-
           <div class="badge-row">
-
 
             <span class="badge">
 
@@ -304,15 +314,11 @@ function createCard(wedge) {
 
             </span>
 
-
             ${restriction}
-
 
           </div>
 
-
         </div>
-
 
       </div>
 
@@ -324,19 +330,15 @@ function createCard(wedge) {
 
       <div class="summary">
 
-
         <strong>
           ${escapeHtml(summary.level || "")}
           |
           ${escapeHtml(summary.cost || "")}
         </strong>
 
-
         <br>
 
-
         • ${effects}
-
 
       </div>
 
@@ -365,18 +367,15 @@ function createCard(wedge) {
 
       <details>
 
-
         <summary>
           강화 상세 수치 보기
         </summary>
-
 
         <ul>
 
           ${enhancementList}
 
         </ul>
-
 
       </details>
 
